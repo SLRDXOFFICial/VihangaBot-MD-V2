@@ -18,14 +18,14 @@ global.APIKeys = {
 
 //Owner React
 global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දාන්න.
-global.REACT_NUMBER = '9476342733' //මෙතන number එක.
+global.REACT_NUMBER = '94766621074' //මෙතන number එක.
 
 // Other
-global.owner = ['9476342733',''] //මෙතන number එක.
-global.premium = ['9476342733','9476342733'] //මෙතන number එක.
-global.botname = 'VIHANGA BOT INC' //මෙතන නම.
-global.ownername = 'Vihanga MD' //මෙතන නම.
-global.ownername = 'ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ' //මෙතන නම.
+global.owner = ['94766621074',''] //මෙතන number එක.
+global.premium = ['94766621074','94766621074'] //මෙතන number එක.
+global.botname = 'SlRdx BOT INC' //මෙතන නම.
+global.ownername = 'slrdx MD' //මෙතන නම.
+global.ownername = 'SLRDX' //මෙතන නම.
 global.group1 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
 global.group2 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
 global.packname = 'VIHANGA BOT INC' //මෙතන නම.

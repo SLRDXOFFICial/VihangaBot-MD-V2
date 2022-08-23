@@ -18,18 +18,18 @@ global.APIKeys = {
 
 //Owner React
 global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දාන්න.
-global.REACT_NUMBER = '94766621074' //මෙතන number එක.
+global.REACT_NUMBER = '94759178984' //මෙතන number එක.
 
 // Other
-global.owner = ['94766621074',''] //මෙතන number එක.
+global.owner = ['94759178984',''] //මෙතන number එක.
 global.premium = ['94766621074','94766621074'] //මෙතන number එක.
 global.botname = 'SlRdx BOT INC' //මෙතන නම.
 global.ownername = 'slrdx MD' //මෙතන නම.
 global.ownername = 'SLRDX' //මෙතන නම.
-global.group1 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
-global.group2 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
-global.packname = 'VIHANGA BOT INC' //මෙතන නම.
-global.cap = '*By Vihanga MD*' //මෙතන නම.
+global.group1 = 'https://chat.whatsapp.com/CSLansalKk41d3RxDCHxO9' //මෙතන grouplink එක.
+global.group2 = 'https://chat.whatsapp.com/Cwtw980mqrc62aiB23miqf' //මෙතන grouplink එක.
+global.packname = 'SLRDX BOT INC' //මෙතන නම.
+global.cap = '*By Slrdx MD*' //මෙතන නම.
 global.img = 'https://i.ibb.co/BBB6Rxn/Vihanga-MD.png' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
 global.ytchannel = 'https://youtu.be/Z9rIR0Vopb8' //මෙතන කැමති ලින්ක් එකක්.
 global.monayawal = '100000' //මෙතන මාරු කරන්න එපා.
